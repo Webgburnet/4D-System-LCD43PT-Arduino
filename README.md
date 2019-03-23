@@ -14,7 +14,7 @@
 ## Branchement
 ![Fritzing]()
 
-###Analogique
+### Analogique
 * A0: NC
 * A1: NC
 * A2: NC
@@ -22,7 +22,7 @@
 * A4: NC
 * A5: NC
 
-###Digital
+### Digital
 * D0 : NC
 * D1 : NC
 * D2 : NC
