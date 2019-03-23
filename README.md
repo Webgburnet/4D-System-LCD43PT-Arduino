@@ -26,8 +26,8 @@
 * A5: NC
 
 ### Digital
-* D0 : NC
-* D1 : NC
+* D0 : RX rs232 non utilise
+* D1 : TX rs232 non utilise
 * D2 : NC
 * D3 : NC
 * D4 : Shield Adaptor Arduino 4D-System
