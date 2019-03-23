@@ -44,3 +44,14 @@
 ### I2C
 * SDA : NC
 * SCL : NC
+
+### Alimentation
+* Vin : NC
+* GND : NC
+* 5V : NC
+* 3.3V : NC
+* Vref : NC
+
+### Divers 
+* Ioref : NC
+* Reset : NC
